@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: "HGK - CoCreate 2022 - Autumn session"
+description: "2022.09.19-23"
+show_downloads: "true"
+plugins:
+  - jemoji

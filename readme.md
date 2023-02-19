@@ -8,26 +8,27 @@
 ## Day 01 - Mond. 20.09.22, 9:00 – 16:00
 
 - 9:00 - Start :smiley_cat:
-- 9:00 - Introduction
+- 9:00 - [Introduction](./slides/intro.html)
   - Me + Workshop
     - Learning Objective
     - Goals
   - What the \*\*\*\* is ML?
   - You
 - 10:00 - Break (30 mns)
-- 10:30 - Intro to tools
+- 10:30 - [Intro to tools](./slides/tools.html)
   - What tool are we using:
     - Collab
     - Command line
+    - Google Drive
     - [insert your fav. software here]
   - What model will / can we use? What are they doing?
     - Image recognition
     - Generative models
-- 11:00 - The master plan!
+- 11:00 - [The master plan!](./slides/master_plan.html)
 - 12:00 - Break
 - 13:00 - :coffee: Share ideas
 - 13:30 - First look at the tools:
-  - Youtube Downloader
+  - [Youtube Downloader](https://github.com/gu-ma/hgk-ml-workshop/blob/main/notebooks/youtube_dl.ipynb)
 - 14:00 - Research
 
 ## Day 02 - Tue. 21.09.22, 9:00 – 16:00
@@ -36,14 +37,14 @@
 
 - 9:00 - :wave: Hello (Daily)
 - 9:15 - References / ideas
-- 9:30 - Generative techniques for storytelling
-- 10:00 - Note on ethics & ML
+- 9:30 - [Generative techniques for storytelling](./slides/ideation.html)
+- 10:00 - [Note on ethics & ML](./slides/ideation.htm)
 - 10:30 - Break
 - 11:00 - Project Focus
   - The Shielding
   - All Work And No Play
 - 11:30 - 2nd look at the tools:
-  - Video Analysis
+  - [Video Analysis](https://github.com/gu-ma/hgk-ml-workshop/blob/main/notebooks/process_videos.ipynb)
 - 12:00 - Break
 - 13:00 - :coffee: Share ideas
 - 13:30 - What is a dataset?

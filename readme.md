@@ -5,7 +5,7 @@
 
 # 1) Schedule
 
-## Day 01 - Mond. 19.09.22, 9:00 – 16:00
+## Day 01 - Mond. 20.09.22, 9:00 – 16:00
 
 - 9:00 - Start :smiley_cat:
 - 9:00 - Introduction
@@ -23,12 +23,14 @@
   - What model will / can we use? What are they doing?
     - Image recognition
     - Generative models
-- 11:30 - Research
+- 11:00 - The master plan!
 - 12:00 - Break
 - 13:00 - :coffee: Share ideas
-- 13:30 - Image / Text
+- 13:30 - First look at the tools:
+  - Youtube Downloader
+- 14:00 - Research
 
-## Day 02 - Tue. 20.09.22, 9:00 – 16:00
+## Day 02 - Tue. 21.09.22, 9:00 – 16:00
 
 :brain: **CONCEPT**
 
@@ -37,14 +39,18 @@
 - 9:30 - Generative techniques for storytelling
 - 10:00 - Note on ethics & ML
 - 10:30 - Break
-- 11:00 - Discussion with Salvatore
+- 11:00 - Project Focus
+  - The Shielding
+  - All Work And No Play
+- 11:30 - 2nd look at the tools:
+  - Video Analysis
 - 12:00 - Break
 - 13:00 - :coffee: Share ideas
 - 13:30 - What is a dataset?
 - 14:00 - What tool can I use and where to find content?
 - 14:30 - Test the tools / Experiment / Questions
 
-## Day 03 - Wed. 21.09.22, 9:00 – 16:00
+## Day 03 - Wed. 22.09.22, 9:00 – 16:00
 
 :floppy_disk: + :art: - **DATA + CREATE**
 
@@ -54,13 +60,13 @@
 - 13:30 - Explore / ideate
 - 14:00 - Continue
 
-## Day 04 - Thur. 22.09.22, 9:00 – 16:00
+## Day 04 - Thur. 23.09.22, 9:00 – 16:00
 
 :floppy_disk: + :art: - **DATA + CREATE**
 
 - 9:00 - :wave: Hello (Daily)
 
-## Day 05 - Fri. 23.09.22, 9:00 – 16:00
+## Day 05 - Fri. 24.09.22, 9:00 – 16:00
 
 :art: + :dizzy: - **CREATE + PRESENT**
 
@@ -71,6 +77,7 @@
 ### Slides
 
 - [Introduction](./slides/intro.html)
+- [Master Plan!](./slides/master_plan.html)
 - [Tools](./slides/tools.html)
 
 ### Todo
@@ -83,6 +90,11 @@
 ### Slides
 
 - [Ideation](./slides/ideation.html)
+
+### Todo
+
+- Read the [documents on ethics](./slides/ideation.html#slide=11) (in particular the field guide)
+- Find some examples / references of project you like
 
 ## Day 03
 

@@ -45,6 +45,7 @@
   - All Work And No Play
 - 11:30 - 2nd look at the tools:
   - [Video Analysis](https://github.com/gu-ma/hgk-ml-workshop/blob/main/notebooks/process_videos.ipynb)
+  - [Text Model](https://github.com/gu-ma/hgk-ml-workshop/blob/main/notebooks/train_gpt2(aitextgen).ipynb)
 - 12:00 - Break
 - 13:00 - :coffee: Share ideas
 - 13:30 - What is a dataset?

@@ -52,7 +52,7 @@
 - 14:00 - What tool can I use and where to find content?
 - 14:30 - Test the tools / Experiment / Questions
 
-## Day 03 - Wed. 22.09.22, 9:00 – 16:00
+## Day 03 - Wed. 22.09.22, 9:00 – 16:00 (Remote)
 
 :floppy_disk: + :art: - **DATA + CREATE**
 
